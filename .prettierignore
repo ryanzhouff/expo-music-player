@@ -1,0 +1,9 @@
+node_modules/
+ios/
+android/
+assets/
+.expo/
+
+.vscode/
+.idea/
+build/

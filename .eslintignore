@@ -1,0 +1,10 @@
+app-example/
+node_modules/
+
+android/
+ios/
+.assets/
+
+.vscode/
+.idea/
+.expo/
