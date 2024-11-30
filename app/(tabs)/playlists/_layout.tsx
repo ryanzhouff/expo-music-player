@@ -6,7 +6,7 @@ export default function PlaylistsScreenLayout() {
   return (
     <View style={defaultStyles.container}>
       <Stack>
-        <Stack.Screen name="index" />
+        <Stack.Screen name="index" options={{ title: '播放列表' }} />
       </Stack>
     </View>
   );

@@ -6,7 +6,7 @@ export default function ArtistsScreenLayout() {
   return (
     <View style={defaultStyles.container}>
       <Stack>
-        <Stack.Screen name="index" options={{ headerTitle: '收藏' }} />
+        <Stack.Screen name="index" options={{ headerTitle: '歌手' }} />
       </Stack>
     </View>
   );

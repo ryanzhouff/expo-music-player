@@ -4,7 +4,7 @@ import { Text, View } from 'react-native';
 const ArtistsScreen = () => {
   return (
     <View style={defaultStyles.container}>
-      <Text style={defaultStyles.text}>播放列表列表页面</Text>
+      <Text style={defaultStyles.text}>歌手列表</Text>
     </View>
   );
 };
